@@ -1,4 +1,4 @@
-\# Security Automation Engineering Portfolio
+![Security Automation Architecture](animation.gif)
 
 
 
