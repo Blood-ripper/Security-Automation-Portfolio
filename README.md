@@ -20,6 +20,8 @@ This repository contains enterprise-grade security tools designed to automate SO
 | **[04_Network_Port_Scanner](./04_Network_Port_Scanner/)** | Network Reconnaissance | A multi-threaded TCP port scanner utilizing thread pooling for rapid attack surface auditing. |
 | **[05_Incident_Response_Responder](./05_Incident_Response_Responder/)** | Incident Response & SOAR | An automated IR playbook simulator that executes host containment, artifact logging, and forensic audit trails. |
 | **[06_Compliance_Auditor](./06_Compliance_Auditor/)** | Configuration & Hardening | An automated system auditor that checks runtime security, permission constraints, and generates a compliance score. |
+| **[07_MFA_Authenticator_Simulator](./07_MFA_Authenticator_Simulator/)** | Identity & Access Management | A TOTP generator implementing RFC 6238 HMAC-SHA1 algorithms for secure 2FA token authentication. |
+
 \## 🚀 How to Use This Repository
 
 Recruiters and Engineers can explore each folder individually. Each project contains:
